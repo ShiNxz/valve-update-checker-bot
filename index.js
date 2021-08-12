@@ -2,7 +2,7 @@
 let ChannelID = '875023298034024448'; // the channel id of the bot channel
 let Delay = 60*60; // Delay in seconds
 let appID = '730'; // app id (730 = cs:go)
-let PrivateMSG = true; // if you want the bot to send you a message if one of the servers offline
+let PrivateMSG = true; // if you want the bot to send you a message if one of the servers is not updated
 let AuthorUserID;
 if(PrivateMSG)
 	AuthorUserID = '137254857710108672' // your user id
