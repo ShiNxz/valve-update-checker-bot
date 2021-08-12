@@ -12,7 +12,7 @@
     <h3 align="center">Valve Update Checker Bot</h3>
 
   <p align="center">
-    A discord.js bot that check if your servers are up to date
+    A discord.js bot that checks if your servers are up to date
     <br />
     <br />
     <a href="https://github.com/shinxz/valve-update-checker-bot/issues">Report Bug</a>
@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A discord bot that check if your defined servers are up to date, if not it will send you a private message with the un-updated servers.
+A discord bot that checks if your defined servers are up to date, if not it will send you a private message with the un-updated servers.
 the bot has many cool features you should check out, and more features will be added soon.
 
 ### Built With
